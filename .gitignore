@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+venv/
+
+# Ignorar archivo pdf
+*.pdf
+Sections/*.pdf 
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
